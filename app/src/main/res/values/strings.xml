@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sign Up 2</string>
+    <string name="page1">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="fullname">Fullname</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string-array name="genderr">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+    <string name="phone">Phone Number</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="page2">Login</string>
+    <string name="profil1">Selamat Datang, </string>
+    <string name="profil2">Email anda: </string>
+    <string name="profil3">No Handphone: </string>
+    <string name="profil4">Jenis Kelamin: </string>
+
+</resources>
